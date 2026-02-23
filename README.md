@@ -1,7 +1,7 @@
 <img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png">
 
 <h1 align="center">
-Hi 👋, I'm Sujeewa R. Bandara
+Hi 👋, I'm Sujeewa Rumesh Bandara
 <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
 </h1>
 
