@@ -23,12 +23,12 @@ Hi 👋, I'm Sujeewa Rumesh Bandara
 <tr border="none">
 <td width="50%" align="left">
 
-- 🔭 I’m currently working on **GRI NEXAA – AI Platform**
+- 🔭 I’m currently working at **GRI Tires**
 - 🌱 I’m currently advancing in **AI Vision & Industrial Machine Learning**
 - 👯 I’m looking to collaborate on **AI Platforms & Enterprise Systems**
 - 🤝 I specialize in **Smart Factory & Automation Solutions**
-- 💬 Ask me about **PHP, SQL Server, Oracle, AI Systems**
-- 📫 How to reach me: **rumesh.bandara@gritires.com**
+- 💬 Ask me about **PHP, SQL Server, Oracle, AI Systems, MySql, Node-JS, React, Node-Red, Arduino, ML, AI, html, Ruby, Kotlin**
+- 📫 How to reach me: **sujeewarumesh1993@Gmail.com**
 - ⚡ Fun fact: I build Industrial Systems that solve real factory problems 🚀
 
 </td>
