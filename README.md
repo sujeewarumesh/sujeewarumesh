@@ -173,11 +173,10 @@ Hi 👋, I'm Sujeewa Rumesh Bandara
 
 ---
 
-Credits: Inspired by modern GitHub profile layouts  
-Last Edited on: 2026
+
 
 <p align="right">
-  <img alt="Signal" height="25px" src="https://media.giphy.com/media/hlRzt8TxCNVcEZBt9w/giphy.gif">
+  <img alt="Signal" height="25px" src="[https://media.giphy.com/media/hlRzt8TxCNVcEZBt9w/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZnYmRjY3dudjN3a3YwZnNtdmNnbHM3NHk4b2NncmJkdGswcTRueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif)">
   <br>
-  <em>Sujeewa</em>
+  <em>Rumesh</em>
 </p>
