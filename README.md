@@ -2,33 +2,58 @@
 
 # 👋 Hi, I'm Sujeewa R. Bandara
 
-### 🚀 IT Systems Developer | Industrial Application Builder | PHP Specialist | AI Specialist
+### 🚀 IT Systems Architect | AI Engineer | Industrial Application Specialist | Mobile & HR System Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Industrial+System+Developer;PHP+%7C+SQL+Server+%7C+Oracle;Building+Smart+Factory+Solutions;Automation+%26+Production+Dashboards" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Industrial+AI+Platform+Developer;Factory+Automation+Engineer;PHP+%7C+SQL+Server+%7C+Oracle;Computer+Vision+%26+ML+Solutions;Building+Smart+Enterprise+Systems" />
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 About Me
 
 ```php
 class Sujeewa {
 
-    public $role = "IT Systems Developer";
+    public $role = "IT Systems Architect & AI Engineer";
     public $company = "GRI Tires";
-    public $speciality = "Factory & Industrial System Development";
+    public $speciality = [
+        "Factory & Industrial System Development",
+        "AI Platform Development",
+        "HR System Engineering",
+        "Mobile Application Development",
+        "Enterprise Automation Solutions"
+    ];
 
-    public function skills() {
+    public function coreSkills() {
         return [
-            "PHP",
+            // Backend
+            "PHP (Enterprise Applications)",
+            "REST API Development",
             "SQL Server",
             "MySQL",
-            "Oracle",
+            "Oracle DB Integration",
+
+            // Frontend
             "JavaScript",
             "Bootstrap",
-            "Production Dashboards",
-            "Automation Systems"
+            "Modern UI Systems",
+
+            // AI & ML
+            "Machine Learning",
+            "Deep Learning",
+            "Computer Vision",
+            "AI Vision Inspection Systems",
+            "Predictive Analytics",
+            "Industrial AI Automation",
+            "Data Processing Pipelines",
+
+            // Systems
+            "Network Monitoring Systems",
+            "Centralized CCTV Monitoring",
+            "Printer Status Monitoring",
+            "Production Monitoring Dashboards",
+            "Industrial IoT Integration"
         ];
     }
 }
