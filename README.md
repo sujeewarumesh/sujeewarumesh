@@ -1,16 +1,34 @@
-# Hi, I'm Sujeewa 👋
+<div align="center">
 
-💻 IT / Systems & Web Apps  
-🏭 Building internal systems (Canteen, Visitor, Production dashboards)
+# 👋 Hi, I'm Sujeewa R. Bandara
 
-### Tech
-- PHP • SQL Server • MySQL • Oracle
-- HTML • CSS • JS • Bootstrap
+### 🚀 IT Systems Developer | Industrial Application Builder | PHP Specialist
 
-### Featured Projects
-- Canteen Management System
-- Visitor Management System
-- TBM Efficiency Dashboard
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Industrial+System+Developer;PHP+%7C+SQL+Server+%7C+Oracle;Building+Smart+Factory+Solutions;Automation+%26+Production+Dashboards" />
 
-### Connect
-- Email: rumesh.bandara@gritires.com
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```php
+class Sujeewa {
+
+    public $role = "IT Systems Developer";
+    public $company = "GRI Tires";
+    public $speciality = "Factory & Industrial System Development";
+
+    public function skills() {
+        return [
+            "PHP",
+            "SQL Server",
+            "MySQL",
+            "Oracle",
+            "JavaScript",
+            "Bootstrap",
+            "Production Dashboards",
+            "Automation Systems"
+        ];
+    }
+}
