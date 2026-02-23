@@ -57,11 +57,11 @@ Hi 👋, I'm Sujeewa Rumesh Bandara
     <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <a href="#">
     <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <a href="https://wa.me/YOURNUMBER">
+  <a href="#">
     <img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
@@ -70,25 +70,42 @@ Hi 👋, I'm Sujeewa Rumesh Bandara
 
 ---
 
-<h3 align="center">My Statistics:</h3>
+## 🛠 Tech Arsenal
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
+<h3 align="center">Core Technologies</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+</p>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sujeewarumesh1993&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujeewarumesh1993&theme=dark&hide_border=false" />
+<h3 align="center">Web Technologies</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
 
-</td>
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AliCloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white"/>
+</p>
 
-<td width="50%" align="center">
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sujeewarumesh1993&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-</td>
-</tr>
-</table>
+<h3 align="center">Tools & Systems</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VIM-019733?style=for-the-badge&logo=vim&logoColor=white"/>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -97,6 +114,7 @@ Hi 👋, I'm Sujeewa Rumesh Bandara
 <h3 align="left">Enterprise Projects:</h3>
 
 - 🚀 **GRI NEXAA – AI Platform**
+- 👥 Project Management System
 - 📡 Network Monitoring System
 - 🎥 Centralized CCTV Monitoring
 - 🖨 Printer Status Monitoring System
@@ -105,29 +123,9 @@ Hi 👋, I'm Sujeewa Rumesh Bandara
 - 👥 HR Management System
 - 📱 Mobile Enterprise Applications
 - 📊 TBM Production Efficiency Dashboard
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
----
-
-<h3 align="center">Support:</h3>
-
-<p align="center">
-Building Smart Industrial AI Systems 🚀
-</p>
+- 📊 Compound managment system
+- 👥 Fuel Management System
+- 👥 Leave Management System
 
 ---
 
