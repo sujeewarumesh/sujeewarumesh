@@ -12,7 +12,7 @@ Hi 👋, I'm Sujeewa Rumesh Bandara
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=sujeewarumesh1993&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
@@ -27,8 +27,8 @@ Hi 👋, I'm Sujeewa Rumesh Bandara
 - 🌱 I’m currently advancing in **AI Vision & Industrial Machine Learning**
 - 👯 I’m looking to collaborate on **AI Platforms & Enterprise Systems**
 - 🤝 I specialize in **Smart Factory & Automation Solutions**
-- 💬 Ask me about **PHP, SQL Server, Oracle, AI Systems, MySql, Node-JS, React, Node-Red, Arduino, ML, AI, html, Ruby, Kotlin**
-- 📫 How to reach me: **sujeewarumesh1993@Gmail.com**
+- 💬 Ask me about **PHP, SQL Server, Oracle, AI Systems, MySql, Node-JS, React, Node-Red, Arduino, ML, AI, HTML, Ruby, Kotlin**
+- 📫 How to reach me: **sujeewarumesh1993@gmail.com**
 - ⚡ Fun fact: I build Industrial Systems that solve real factory problems 🚀
 
 </td>
@@ -49,11 +49,11 @@ Hi 👋, I'm Sujeewa Rumesh Bandara
 <em><b>I love building intelligent systems and connecting with innovators.</b> Let's collaborate! 🚀</em><br>
 
 <p align="center">
-	<a href="mailto:rumesh.bandara@gritires.com">
+	<a href="mailto:sujeewarumesh1993@gmail.com">
 	<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"/>
 	</a>
 
-	<a href="https://github.com/YOUR_USERNAME">
+	<a href="https://github.com/sujeewarumesh1993">
 	<img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"/>
 	</a>
 
@@ -77,19 +77,19 @@ Hi 👋, I'm Sujeewa Rumesh Bandara
 <td width="50%" align="center">
   
 <img align="center"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=dark&show_icons=true&count_private=true" />
+src="https://github-readme-stats.vercel.app/api?username=sujeewarumesh1993&theme=dark&show_icons=true&count_private=true" />
 
 <br></br>
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=false" />
+src="https://github-readme-streak-stats.herokuapp.com/?user=sujeewarumesh1993&theme=dark&hide_border=false" />
 
 </td>
 
 <td width="50%" align="center">
 
 <img align="center"
-src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sujeewarumesh1993&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
 </td>
 </tr>
